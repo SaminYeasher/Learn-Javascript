@@ -1,0 +1,23 @@
+/* .p1{
+    color: blue
+}
+.p2{
+
+    background-color: red
+}
+.container{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    color: black;
+    border: 1px solid black;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}

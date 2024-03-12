@@ -39,9 +39,13 @@ myMap.set('third key','Hello World');
 // })
 
 
-let arr = Array.from(myMap);
-let aarr = Array.from(myMap.keys());
-let aarrr = Array.from(myMap.values());
+// let arr = Array.from(myMap);
+// let aarr = Array.from(myMap.keys());
+// let aarrr = Array.from(myMap.values());
 
 
-console.log(aarrr);
+// console.log(aarrr);
+
+let a = 13;
+a = 12;
+console.log(a);
